@@ -1,0 +1,4 @@
+ipykernel
+fsspec-xrootd
+uproot
+awkward
