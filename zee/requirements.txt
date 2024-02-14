@@ -1,0 +1,8 @@
+git+https://github.com/CoffeaTeam/coffea@52950d10eeb43fc912807dfea9955f8d80c85c39
+awkward<2.4.5
+zstandard
+mplhep
+vector
+weightedstats
+jupyterlab
+urllib3<2
